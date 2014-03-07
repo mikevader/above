@@ -14,6 +14,7 @@ public class ABOVE
 	 * Just calls {@link Application#main(String[])}.
 	 */
 	public static void main(String[] args) {
+		System.out.println("Starting ABOVE");
 		Application.main(args);
 	}
 }

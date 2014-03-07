@@ -1,2 +1,2 @@
 language: java
-install: ant zip
+script: ant zip
